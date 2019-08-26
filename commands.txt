@@ -1,0 +1,6 @@
+
+Here are some list of commands:
+
+`//avatar` - sends a reply for a link of your avatar
+`//ping` - replies PONG
+`//beep` - replies beep
